@@ -64,3 +64,5 @@ function CalcPercent(name, total_marks){
 
 
 CalcPercent("Dan", 400)
+
+// swicthgin whfahwf;hwe
